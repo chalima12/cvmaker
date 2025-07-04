@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cvmaker/static/css/main.41dc3a84.css",
+    "main.js": "/cvmaker/static/js/main.32e145a9.js",
+    "index.html": "/cvmaker/index.html",
+    "main.41dc3a84.css.map": "/cvmaker/static/css/main.41dc3a84.css.map",
+    "main.32e145a9.js.map": "/cvmaker/static/js/main.32e145a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41dc3a84.css",
+    "static/js/main.32e145a9.js"
+  ]
+}
