@@ -1,5 +1,5 @@
 // src/App.js
-import React, { useState, useRef, useEffect } from 'react';
+import React, { useState, useRef } from 'react';
 import DelayedInput from './DelayedInput'; // Import the DelayedInput component
 import DelayedTextarea from './DelayedTextarea'; // Import the DelayedTextarea component
 import CVPreview from './CVPreview'; // Import the CVPreview component

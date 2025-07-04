@@ -1,5 +1,5 @@
 // src/CVPreview.js
-import React, { useEffect } from 'react';
+import React, {} from 'react';
 import LucideIcon from './LucideIcon'; // Import the LucideIcon component
 
 // CVPreview Component: Renders the selected CV template with provided data
@@ -7,7 +7,7 @@ const CVPreview = ({ cvData, template, sectionVisibility }) => { // Added sectio
     // Common Tailwind classes for section titles and list items across templates
     const sectionTitleClasses = "text-lg font-bold text-blue-700 mb-2 border-b-2 border-blue-300 pb-1";
     // Modified listItemClasses to include word-break
-    const listItemClasses = "text-gray-700 text-sm mb-1 break-words"; // Added break-words
+    // const listItemClasses = "text-gray-700 text-sm mb-1 break-words"; // Added break-words
     const skillBadgeClasses = "inline-block bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full mr-2 mb-2 font-semibold";
 
     // Helper function to check if a section has content
